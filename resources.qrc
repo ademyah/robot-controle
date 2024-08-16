@@ -1,0 +1,25 @@
+<RCC>
+  <qresource>
+    <file>images/background.jpg</file>
+    <file>images/tt.jpg</file>
+    <file>images/cir.jpg</file>
+    <file>images/sodure.jpg</file>
+    <file>images/robot.jpg</file>
+    <file>images/acceu.png</file>
+    <file>images/fff.jpg</file>
+    <file>images/images.jpg</file>
+    <file>images/bienvenue-creative-banniere-equipe-pour-embauche-entreprise_1017-43282.avif</file>
+    <file>images/help.jpg</file>
+    <file>images/sttin.png</file>
+    <file>images/noti.png</file>
+    <file>images/auto.png</file>
+    <file>images/manuel.png</file>
+    <file>images/king.png</file>
+    <file>images/image.png</file>
+    <file>images/log.png</file>
+    <file>images/menu.png</file>
+    <file>images/profile.png</file>
+    <file>images/search.png</file>
+    <file>images/settings_white.png</file>
+  </qresource>
+</RCC>
